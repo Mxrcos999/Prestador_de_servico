@@ -1,0 +1,51 @@
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.csproj.AssemblyReference.cache
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.AssemblyInfoInputs.cache
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.AssemblyInfo.cs
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_infrastructure.deps.json
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_infrastructure.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\bin\Debug\net5.0\ref\Prestadores_infrastructure.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_infrastructure.pdb
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\obj\Debug\net5.0\ref\Prestadores_infrastructure.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.pdb
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_App.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_App.pdb
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.csproj.CopyComplete
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_Domain.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_Domain.pdb
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_infrastructure.deps.json
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_infrastructure.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\bin\Debug\net5.0\ref\Prestadores_infrastructure.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_infrastructure.pdb
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_App.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_Domain.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_App.pdb
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_Domain.pdb
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.csproj.AssemblyReference.cache
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.AssemblyInfoInputs.cache
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.AssemblyInfo.cs
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.csproj.CopyComplete
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\obj\Debug\net5.0\ref\Prestadores_infrastructure.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.pdb
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_infrastructure.deps.json
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_infrastructure.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Infraestrutura\bin\Debug\net5.0\ref\Prestadores_infrastructure.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_infrastructure.pdb
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_App.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_Domain.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_App.pdb
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Infraestrutura\bin\Debug\net5.0\Prestadores_Domain.pdb
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.csproj.AssemblyReference.cache
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.AssemblyInfoInputs.cache
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.AssemblyInfo.cs
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.csproj.CopyComplete
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Infraestrutura\obj\Debug\net5.0\ref\Prestadores_infrastructure.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Infraestrutura\obj\Debug\net5.0\Prestadores_infrastructure.pdb

@@ -1,0 +1,248 @@
+﻿@charset "UTF-8";
+
+.textocentro {
+    font-size: px;
+    text-align: center;
+}
+
+.quemsomos {
+    font-size: 25px;
+    background-color: #232323;
+    color: #F7F7F7;
+    border-radius: 10px;
+    padding: 30px 50px;
+    max-width: 83vw;
+    box-shadow: 50px 50px 1px #F29E00;
+    font: small-caps bold 25px sans-serif;
+}
+
+.txtquemsomos {
+    color: #F29E00;
+    text-align: center;
+    font-size: 50px;
+}
+
+.botao {
+    align: center;
+    margin-left: 32%;
+    margin-right: 32%;
+}
+
+.fundoprincipal {
+    background-color: #F7F7F7;
+}
+
+.login-container {
+    margin-top: 7%;
+    margin-left: 32%;
+    margin-right: 32%;
+    width: 70%;
+}
+
+.botaologin {
+    background-color: #F29E00;
+    border: 0px;
+    border-radius: 8px;
+    color: black;
+    font: small-caps bold 16px sans-serif;
+    padding: 10px 30px;
+    text-align: center;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+
+    .botaologin:hover {
+        box-shadow: 5px 5px 5px rgba(0,0,0,0.3);
+        background-color: black;
+        color: #F29E00;
+    }
+
+.linkcadastro {
+    width: 150px;
+    color: #F29E00;
+    font: small-caps bold 16px sans-serif;
+    text-align: center;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+
+    .linkcadastro:visited {
+        color: #F29E00;
+    }
+
+.txtdia {
+    font: small-caps bold 16px sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+#txtfelicidade {
+    text-align: center;
+    font: small-caps bold 16px sans-serif;
+    font-size: 20px;
+    color: gray;
+}
+
+.txtcomofunciona {
+    color: #F29E00;
+    text-align: center;
+    font: small-caps bold 50px sans-serif;
+}
+
+#txtcomofunciona2 {
+    text-align: center;
+    font: small-caps bold 16px sans-serif;
+    font-size: 25px;
+    color: #f7f7f7;
+}
+
+#logo {
+    padding: 30px 50px;
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bodylogin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+section {
+    width: calc(30% - 10px);
+    background: #232323;
+    padding: 30px 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+    max-width: 70vw;
+}
+
+fieldset {
+    border: none;
+}
+
+    fieldset:nth-child(2) {
+        display: flex;
+    }
+
+    fieldset:nth-child(4) {
+        display: flex;
+        padding-top: 20px;
+    }
+
+    fieldset:nth-child(5) {
+        display: flex;
+        width: 100%;
+        margin-top: 20px;
+        padding: 0px 10px;
+    }
+
+.container input {
+    margin: 10px;
+    width: calc(100% - 10px);
+    height: 70px;
+    border: none;
+    background-color: #fffafa;
+    border-radius: 4px;
+    color: #232323;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.container {
+    position: relative;
+}
+
+    .container label {
+        text-transform: uppercase;
+        font-size: 14px;
+        font-weight: 700;
+        color: #232323;
+        position: absolute;
+        line-height: 70px;
+        top: 10px;
+        left: 30px;
+        user-select: none;
+        pointer-events: none;
+        transition: 0.5s;
+    }
+
+    .container input:focus ~ label,
+    .container input:valid ~ label {
+        left: 30px;
+        top: -10px;
+    }
+
+#check {
+    width: 50%;
+    text-transform: uppercase;
+    font-size: 14px;
+    display: flex;
+}
+
+    #check input {
+        width: 25px;
+        height: 25px;
+        margin: auto 0;
+        max-width: 10px;
+        min-height: 10px;
+    }
+
+    #check label {
+        margin: auto 10px;
+        color: #f7f7f7;
+        transition: 0.5s;
+    }
+
+button {
+   background-color:transparent;
+   border:none;
+}
+
+section h1 {
+    text-align: center;
+    color: #F7F7F7;
+}
+
+.navbar1 {
+    background-color: #232323;
+}
+
+.carousel-inner {
+    border-radius: 10px;
+    box-shadow: 50px 50px 1px #232323;
+}
+
+.icones {
+    max-width: 200px;
+    max-height: 200px;
+    width: auto;
+    height: auto;
+}
+
+.txticones {
+    text-align: center;
+    color: white;
+}
+
+footer {
+    background-color: lightgrey;
+    text-align: center;
+    padding: 30px;
+    color: #232323;
+}
+
+.imgresponsive {
+    max-width: 100%;
+    height: auto;
+}

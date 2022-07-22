@@ -1,0 +1,45 @@
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_App\bin\Debug\net5.0\Prestadores_App.deps.json
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_App\bin\Debug\net5.0\Prestadores_App.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_App\bin\Debug\net5.0\ref\Prestadores_App.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_App\bin\Debug\net5.0\Prestadores_App.pdb
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_App\obj\Debug\net5.0\Prestadores_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_App\obj\Debug\net5.0\Prestadores_App.AssemblyInfoInputs.cache
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_App\obj\Debug\net5.0\Prestadores_App.AssemblyInfo.cs
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_App\obj\Debug\net5.0\Prestadores_App.csproj.CoreCompileInputs.cache
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_App\obj\Debug\net5.0\Prestadores_App.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_App\obj\Debug\net5.0\ref\Prestadores_App.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_App\obj\Debug\net5.0\Prestadores_App.pdb
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_App\obj\Debug\net5.0\Prestadores_App.csproj.AssemblyReference.cache
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_App\bin\Debug\net5.0\Prestadores_Domain.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_App\bin\Debug\net5.0\Prestadores_Domain.pdb
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_App\obj\Debug\net5.0\Prestadores_App.csproj.CopyComplete
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_App\bin\Debug\net5.0\Prestadores_App.deps.json
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_App\bin\Debug\net5.0\Prestadores_App.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_App\bin\Debug\net5.0\ref\Prestadores_App.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_App\bin\Debug\net5.0\Prestadores_App.pdb
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_App\bin\Debug\net5.0\Prestadores_Domain.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_App\bin\Debug\net5.0\Prestadores_Domain.pdb
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_App\obj\Debug\net5.0\Prestadores_App.csproj.AssemblyReference.cache
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_App\obj\Debug\net5.0\Prestadores_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_App\obj\Debug\net5.0\Prestadores_App.AssemblyInfoInputs.cache
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_App\obj\Debug\net5.0\Prestadores_App.AssemblyInfo.cs
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_App\obj\Debug\net5.0\Prestadores_App.csproj.CoreCompileInputs.cache
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_App\obj\Debug\net5.0\Prestadores_App.csproj.CopyComplete
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_App\obj\Debug\net5.0\Prestadores_App.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_App\obj\Debug\net5.0\ref\Prestadores_App.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_App\obj\Debug\net5.0\Prestadores_App.pdb
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_App\bin\Debug\net5.0\Prestadores_App.deps.json
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_App\bin\Debug\net5.0\Prestadores_App.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_App\bin\Debug\net5.0\ref\Prestadores_App.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_App\bin\Debug\net5.0\Prestadores_App.pdb
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_App\bin\Debug\net5.0\Prestadores_Domain.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_App\bin\Debug\net5.0\Prestadores_Domain.pdb
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_App\obj\Debug\net5.0\Prestadores_App.csproj.AssemblyReference.cache
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_App\obj\Debug\net5.0\Prestadores_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_App\obj\Debug\net5.0\Prestadores_App.AssemblyInfoInputs.cache
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_App\obj\Debug\net5.0\Prestadores_App.AssemblyInfo.cs
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_App\obj\Debug\net5.0\Prestadores_App.csproj.CoreCompileInputs.cache
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_App\obj\Debug\net5.0\Prestadores_App.csproj.CopyComplete
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_App\obj\Debug\net5.0\Prestadores_App.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_App\obj\Debug\net5.0\ref\Prestadores_App.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_App\obj\Debug\net5.0\Prestadores_App.pdb

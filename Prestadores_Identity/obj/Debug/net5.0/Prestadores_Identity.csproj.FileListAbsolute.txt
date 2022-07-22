@@ -1,0 +1,90 @@
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.Views.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.Views.pdb
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.deps.json
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.runtimeconfig.json
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.runtimeconfig.dev.json
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\appsettings.json
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.exe
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\Prestadores_Identity.deps.json
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\Prestadores_Identity.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\ref\Prestadores_Identity.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\Prestadores_Identity.pdb
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\Prestadores_App.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\Prestadores_Domain.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\Prestadores_infrastructure.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.pdb
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\Prestadores_App.pdb
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\Prestadores_Domain.pdb
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\Prestadores_infrastructure.pdb
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.csproj.AssemblyReference.cache
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.AssemblyInfoInputs.cache
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.AssemblyInfo.cs
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.csproj.CoreCompileInputs.cache
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.csproj.CopyComplete
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\obj\Debug\net5.0\ref\Prestadores_Identity.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.pdb
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.StaticWebAssets.xml
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\appsettings.json
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.Views.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.Views.pdb
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.deps.json
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.runtimeconfig.json
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.runtimeconfig.dev.json
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.StaticWebAssets.xml
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.exe
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\Prestadores_Identity.deps.json
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\Prestadores_Identity.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\ref\Prestadores_Identity.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\Prestadores_Identity.pdb
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\Prestadores_App.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\Prestadores_Domain.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\Prestadores_infrastructure.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.pdb
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\Prestadores_App.pdb
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\Prestadores_Domain.pdb
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\bin\Debug\net5.0\Prestadores_infrastructure.pdb
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.csproj.AssemblyReference.cache
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.AssemblyInfoInputs.cache
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.AssemblyInfo.cs
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.csproj.CoreCompileInputs.cache
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.csproj.CopyComplete
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\obj\Debug\net5.0\ref\Prestadores_Identity.dll
+C:\Users\marco\Source\Repos\Prestador_de_servico\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.pdb
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\appsettings.json
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.Views.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.Views.pdb
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.deps.json
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.runtimeconfig.json
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.runtimeconfig.dev.json
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.exe
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\Prestadores_Identity.deps.json
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\Prestadores_Identity.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\ref\Prestadores_Identity.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\Prestadores_Identity.pdb
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\Prestadores_App.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\Prestadores_Domain.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\Prestadores_infrastructure.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.pdb
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\Prestadores_App.pdb
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\Prestadores_Domain.pdb
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\Prestadores_infrastructure.pdb
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.csproj.AssemblyReference.cache
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.AssemblyInfoInputs.cache
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.AssemblyInfo.cs
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.csproj.CoreCompileInputs.cache
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.csproj.CopyComplete
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\obj\Debug\net5.0\ref\Prestadores_Identity.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\obj\Debug\net5.0\Prestadores_Identity.pdb
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\Prestadores_Identity\bin\Debug\net5.0\PrestadorDeServico.StaticWebAssets.xml

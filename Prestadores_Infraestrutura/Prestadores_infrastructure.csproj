@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.14" />
+    <PackageReference Include="MySql.EntityFrameworkCore" Version="5.0.13" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Prestadores_App\Prestadores_App.csproj" />
+    <ProjectReference Include="..\Prestadores_Domain\Prestadores_Domain.csproj" />
+  </ItemGroup>
+
+</Project>

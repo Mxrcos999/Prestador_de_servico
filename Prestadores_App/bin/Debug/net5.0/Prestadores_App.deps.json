@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Prestadores_App/1.0.0": {
+        "dependencies": {
+          "Prestadores_Domain": "1.0.0"
+        },
+        "runtime": {
+          "Prestadores_App.dll": {}
+        }
+      },
+      "Prestadores_Domain/1.0.0": {
+        "runtime": {
+          "Prestadores_Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prestadores_App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Prestadores_Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

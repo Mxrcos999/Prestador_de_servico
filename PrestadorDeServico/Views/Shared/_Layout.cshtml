@@ -1,0 +1,83 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PrestadorDeServico</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/Estilo.css" />
+
+</head>
+<body>
+
+    <div class="navbar1 fixed-top">
+
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <a class="navbar-brand" href="#"> <img src="./img/icone.png" alt=""> </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado"
+                    aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="navbar-brand text-white" asp-area="" asp-controller="Home" asp-action="Index">PrestadorDeServico</a>
+
+                    </li>
+                    @if (SignInManager.IsSignedIn(User))
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Prestadors" asp-action="Index" style="color: #F29E00;">Encontrar prestador</a>
+                        </li>
+                    }
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#linkquemsomos" style="color: white;">Quem somos</a>
+
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#linkservicos" style="color: white;">Serviços básicos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#linkcomofunciona" style="color: white;">Como funciona</a>
+                    </li>
+                    <li class="nav-item">
+                        <partial name="_LoginPartial" />
+                    </li>
+
+                </ul>
+                @if (SignInManager.IsSignedIn(User))
+                {
+                    <a class="linkcadastro" asp-controller="Prestadors" asp-action="Create">Cadastrar Prestador</a>
+
+                }
+
+
+
+            </div>
+        </nav>
+    </div>
+
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - PrestadorDeServico - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

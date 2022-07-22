@@ -1,0 +1,91 @@
+﻿@model Prestadores_App.Models.PrestadorViewModel
+
+
+@{ ViewData["Title"] = "Create"; }
+
+<hr />
+<br />
+<br />
+<br />
+<section style="background:#232323;" align="center" class="container">
+
+    <h1> CADASTRO PRESTADOR DE SERVIÇO</h1>
+
+    <form asp-action="Create">
+
+        <fieldset>
+            <div class="container">
+
+                <input class-"teste" asp-for="Name" class="form-control" required />
+                <label>NOME</label>
+
+            </div>
+        </fieldset>
+
+        <fieldset>
+            <div class="container">
+
+                <input id="telefone" asp-for="PhoneNumber" class="form-control" required />
+                <label>TELEFONE</label>
+
+            </div>
+        </fieldset>
+
+        <fieldset>
+            <div class="container">
+
+                <input id="email" asp-for="Email" class="form-control" required />
+                <label>E-MAIL</label>
+
+            </div>
+        </fieldset>
+
+        <fieldset>
+            <div class="container">
+
+                <p style="color: #f7f7f7">SELECIONE A CIDADE ONDE PRESTAR SERVIÇOS</p>
+                <select style="width: 185px" name="City" asp-for="City" required>
+                    <option type="radio" name="cidade" id="RIBEIRÃO PRETO" value="RIBEIRAO PRETO">RIBEIRÃO PRETO</option>
+                    <option type="radio" name="cidade" id="SERRANA" value="SERRANA">SERRANA</option>
+                    <option type="radio" name="cidade" id="SERTÃOZINHO" value="SERTAOZINHO">SERTÃOZINHO</option>
+                    <option type="radio" name="cidade" id="SÃO CARLOS" value="SAO CARLOS">SÃO CARLOS</option>
+                    <option type="radio" name="cidade" id="JARDINOPOLIS" value="JARDINOPOLIS">JARDINÓPOLIS</option>
+                    <option type="radio" name="cidade" id="SÃO PAULO" value="SAO PAULO">SÃO PAULO</option>
+                </select>
+
+
+            </div>
+        </fieldset>
+
+        <fieldset>
+            <div class="container">
+
+                <p style="color: #f7f7f7">SELECIONE O SERVIÇO QUE DESEJA PRESTAR</p>
+                <select style="width: 185px" name="Service" required asp-for="ServiceProvided">
+                   
+                        <option type="radio" name="servico">Eletricista</option>
+                                    
+                </select>
+
+
+            </div>
+        </fieldset>
+
+        <br>
+
+        <fieldset>
+            <div class="container">
+                <input type="submit" value="Cadastrar prestador" class="btn btn-primary" id="submit" style="background-color: #F29E00; color:#f7f7f7;" />
+
+            </div>
+        </fieldset>
+    </form>
+</section>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
