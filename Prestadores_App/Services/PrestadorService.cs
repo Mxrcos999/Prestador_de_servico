@@ -11,18 +11,27 @@ namespace Prestadores_App.Services
     public class PrestadorService : IPrestadorService
     {
         private readonly IPrestadorRepository _prestadorRepository;
+        private readonly IUnitOfWork _uow;
 
-        public PrestadorService(IPrestadorRepository prestadorRepository)
+        public PrestadorService(IPrestadorRepository prestadorRepository, IUnitOfWork uow)
         {
             _prestadorRepository = prestadorRepository;
+            _uow = uow;
         }
 
         public async Task Add(PrestadorViewModel prestador)
         {
 
-            var _prestador = new Prestador(prestador.Name, prestador.PhoneNumber, prestador.Email, prestador.City); 
-            await _prestadorRepository.Add(_prestador);
-           
+            var _prestador = new Prestador(prestador.Name, prestador.PhoneNumber, prestador.Email, prestador.City);
+            try
+            {
+                await _prestadorRepository.Add(_prestador);
+                await _uow.Commit();
+            }
+            catch (Exception)
+            {
+               await _uow.Rollback();     
+            }
                
         }
 
@@ -37,8 +46,17 @@ namespace Prestadores_App.Services
                 return null;
             }
             var Novoprestador = new Prestador(prestador.Name, prestador.PhoneNumber, prestador.Email, prestador.City);
-            var _prestaodor = await _prestadorRepository.Edit(id, Novoprestador);
-            return _prestaodor;
+            try
+            {
+                var _prestaodor = await _prestadorRepository.Edit(id, Novoprestador);
+                await _uow.Commit();
+                return _prestaodor;
+
+            }
+            catch (Exception)
+            {
+                await _uow.Rollback();
+                throw;            }
         }
 
         public async Task<Prestador> Edit(int? id)

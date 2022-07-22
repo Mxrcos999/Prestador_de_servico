@@ -1,4 +1,3 @@
-
 namespace Prestadores_App.Models
 {
     public class ErrorViewModel

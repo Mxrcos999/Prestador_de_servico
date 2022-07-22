@@ -1,5 +1,4 @@
 ﻿using Prestadores_Domain.EntityCore;
-using System.Collections.Generic;
 
 namespace Prestadores_Domain.Entities
 {
@@ -7,7 +6,6 @@ namespace Prestadores_Domain.Entities
     {
         public string Name { get; set; }
         public string State { get; set; }
-      //  public List<Prestador> PrestadorId { get; set; }
         public Cidade(string nome, string estado)
         {
             Name = nome;

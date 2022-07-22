@@ -9,12 +9,10 @@ namespace PrestadorDeServico.Controllers
     public class PrestadorsController : Controller
     {
         private readonly IPrestadorService _PrestadorService;
-        private readonly IUnitOfWork _Uow; 
 
-        public PrestadorsController(IPrestadorService prestadorService, IUnitOfWork uow)
+        public PrestadorsController(IPrestadorService prestadorService)
         {
             _PrestadorService = prestadorService;
-            _Uow = uow;
         }
 
         // GET: Prestadors
@@ -37,9 +35,7 @@ namespace PrestadorDeServico.Controllers
             if (ModelState.IsValid)
             {
                 await _PrestadorService.Add(prestador);
-
-                if (await _Uow.Commit())
-                    return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Index));
             }
 
             return View(prestador);
@@ -63,8 +59,7 @@ namespace PrestadorDeServico.Controllers
             if (ModelState.IsValid)
             {
                 await _PrestadorService.Edit(id, prestador);
-                if (await _Uow.Commit());
-                    return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Index));
             }
             return View(prestador);
         }

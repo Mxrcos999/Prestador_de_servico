@@ -2,7 +2,6 @@
 using Prestadores_Domain.Entities;
 using Prestadores_Domain.Interfaces;
 using Prestadores_Infrastructure.Context;
-using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 

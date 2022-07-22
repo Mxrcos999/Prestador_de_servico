@@ -12,7 +12,6 @@ namespace Prestadores_Infrastructure.Context
         {
         }
         public DbSet<Prestador> Prestadores { get; set; }
-      //  public DbSet<Cidade> Cidades { get; set; }
         public DbSet<Service> Servicos { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

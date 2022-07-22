@@ -46,11 +46,20 @@ namespace Prestadores_App.Services
                 return null;
  
             var newService = new Service(service.Name, service.Price);
-            var _service = await _serviceRepository.Edit(id, newService);
+            try
+            {
+                var _service = await _serviceRepository.Edit(id, newService);
+                if (_service == null)
+                    return null;
+                await _uow.Commit();
+                return _service;
 
-            if (_service == null)
-                return null;
-            return _service;
+            }
+            catch (Exception)
+            {
+                await _uow.Rollback();
+                throw;
+            }   
         }
     
 

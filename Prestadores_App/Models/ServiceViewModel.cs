@@ -1,6 +1,4 @@
 ﻿
-using Prestadores_Domain.Entities;
-
 namespace Prestadores_App.Models
 {
     public class ServiceViewModel
