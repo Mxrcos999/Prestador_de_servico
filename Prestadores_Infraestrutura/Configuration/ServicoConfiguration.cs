@@ -8,7 +8,10 @@ namespace Prestadores_infrastructure.Configuration
     {
         public void Configure(EntityTypeBuilder<Service> builder)
         {
-           
+            builder
+                 .HasOne(p => p.Provideed)
+                 .WithMany(s => s.ServiceProvided)
+                 .OnDelete(DeleteBehavior.Cascade);
                 
                 
         }

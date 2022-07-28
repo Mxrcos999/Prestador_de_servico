@@ -421,12 +421,7 @@ C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\PrestadorDeServico.pdb
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\PrestadorDeServico.Views.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\PrestadorDeServico.Views.pdb
-C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\BouncyCastle.Crypto.dll
-C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\Google.Protobuf.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\Humanizer.dll
-C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\K4os.Compression.LZ4.dll
-C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\K4os.Hash.xxHash.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
@@ -456,19 +451,13 @@ C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\MySql.Data.dll
-C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\Ubiety.Dns.Core.dll
-C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\ZstdNet.dll
-C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\System.Composition.AttributedModel.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\System.Composition.Convention.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\System.Composition.Hosting.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\System.Composition.Runtime.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\System.Composition.TypedParts.dll
-C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -523,7 +512,6 @@ C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
-C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\Prestadores_App.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\Prestadores_Domain.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\Prestadores_infrastructure.dll
@@ -571,3 +559,5 @@ C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\obj\Debug\net5.0\Razor\Views\Services\Details.cshtml.g.cs
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\obj\Debug\net5.0\Razor\Views\Services\Edit.cshtml.g.cs
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\obj\Debug\net5.0\Razor\Views\Services\Index.cshtml.g.cs
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\Npgsql.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

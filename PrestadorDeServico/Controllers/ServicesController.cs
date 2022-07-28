@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Prestadores_App.Interfaces;
 using Prestadores_App.Models;
-using Prestadores_Infrastructure.Context;
 
 namespace PrestadorDeServico.Controllers
 {

@@ -35,7 +35,7 @@ namespace PrestadorDeServico
 
 
             services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseMySQL(
+                options.UseNpgsql(
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDatabaseDeveloperPageExceptionFilter();
 

@@ -17,19 +17,15 @@ namespace Prestadores_Domain.Entities
         public string PhoneNumber { get; set; }
 
         public string City { get; set; }
-
         public int ServiceProvidedId { get; set; }
 
         public IEnumerable<Service> ServiceProvided { get; set; }
         public Prestador(string name, string phoneNumber, Email email, string city)
         {
-
             if (!email.IsValid) throw new ValidationException("Email inválido");
             Name = name;
             Email = email;
             PhoneNumber = phoneNumber;
-            
-        //    this.DateHourRegister = DateTime.Now;
         }
         protected Prestador()
         {

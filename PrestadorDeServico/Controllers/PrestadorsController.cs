@@ -2,7 +2,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Prestadores_App.Interfaces;
 using Prestadores_App.Models;
-using Prestadores_Domain.Interfaces;
 
 namespace PrestadorDeServico.Controllers
 {
