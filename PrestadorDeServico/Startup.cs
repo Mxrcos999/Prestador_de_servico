@@ -30,13 +30,12 @@ namespace PrestadorDeServico
             services.AddScoped<IPrestadorRepository, PrestadorRepository>();
             services.AddScoped<IServicesService, ServicesService>();
             services.AddScoped<IServiceRepository, ServiceRepository>();
-
             services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseNpgsql(
-                    Configuration.GetConnectionString("DefaultConnection")));
+                    Configuration.GetConnectionString("DefaultConnection")).UseLazyLoadingProxies());
             services.AddDatabaseDeveloperPageExceptionFilter();
 
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)

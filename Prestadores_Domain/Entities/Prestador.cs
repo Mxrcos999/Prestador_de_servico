@@ -19,7 +19,7 @@ namespace Prestadores_Domain.Entities
         public string City { get; set; }
         public int ServiceProvidedId { get; set; }
 
-        public IEnumerable<Service> ServiceProvided { get; set; }
+        public virtual IEnumerable<Service> ServiceProvided { get; set; }
         public Prestador(string name, string phoneNumber, Email email, string city)
         {
             if (!email.IsValid) throw new ValidationException("Email inválido");

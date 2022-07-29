@@ -22,7 +22,6 @@ namespace Prestadores_infrastructure.Configuration
                 .Property(p => p.DateHourRegister)
                 .HasDefaultValueSql("Now()");
 
-          
 
         }
     }

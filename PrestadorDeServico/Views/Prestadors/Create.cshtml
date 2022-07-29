@@ -1,5 +1,5 @@
-﻿@model Prestadores_App.Models.PrestadorViewModel
-
+﻿@model Prestadores_Domain.Entities.Prestador
+ 
 
 @{ ViewData["Title"] = "Create"; }
 
@@ -60,10 +60,12 @@
             <div class="container">
 
                 <p style="color: #f7f7f7">SELECIONE O SERVIÇO QUE DESEJA PRESTAR</p>
-                <select style="width: 185px" name="Service" required asp-for="ServiceProvided">
-                   
-                        <option type="radio" name="servico" value="Eletricista">Eletricista</option>
-                                    
+                <select style="width: 185px" name="Service" required asp->
+                    @foreach (var s in Model.ServiceProvided)
+                    {
+                        <option type="radio" name="servico" value="@s.Name">@s.Name</option>
+                                    }
+
                 </select>
 
 

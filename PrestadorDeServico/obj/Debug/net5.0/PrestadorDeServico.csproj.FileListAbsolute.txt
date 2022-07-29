@@ -561,3 +561,5 @@ C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\obj\Debug\net5.0\Razor\Views\Services\Index.cshtml.g.cs
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\Npgsql.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\Prestador_de_servico-main\PrestadorDeServico\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
